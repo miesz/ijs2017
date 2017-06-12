@@ -1,0 +1,87 @@
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+.clickme {
+  cursor:pointer;
+}
+
+/**/
+
+td > .mdl-js-checkbox { width: 50%; margin-left: 40%}
+.mdl-data-table th { text-align: center}
+legend { font-size: 1.1rem; font-weight: bold; margin-top: 1rem}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #E5DABA;
+    font-size: 120%;
+    color: #444;
+}
+.mdl-layout-title a {
+    text-decoration: none;
+    color: white;
+}
+h1, h2, h3, h4 {
+    font-family: 'Lobster', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-shadow: 0px 0px 4px rgba(0, 0, 0, .3);
+}
+p, li {
+    font-size: 19px;
+}
+section,
+footer {
+    margin: 0;
+    padding: 2em 0;
+}
+footer {
+    color: #9F8668;
+    text-align: center;
+    font-style: italic;
+}
+figure img { width: 200px; height: 200px; }
+time { display: inline-block; }
+.center, figure { text-align: center }
+section p,
+section li {
+    opacity: .8;
+    line-height: 1.7
+}
+
+#bonvenigo {
+    color: white;
+    text-shadow: 0px 0px 6px rgba(0, 0, 0, .6);
+    text-align: center;
+    background-color: #E46964;
+}
+#bonvenigo p {
+    padding: .2em 1em;
+    /*background: rgba(0, 0, 0, .2);
+    box-shadow: 0 0 15px rgba(0, 0, 0, .4);*/
+}
+#bonvenigo h3 { color: #AED4BF }
+#bonvenigo .dato { color: #E5DABA }
+#bonvenigo .dato .sep { opacity: .6 }
+
+.parallax { padding: 0 }
+.parallax {
+    height: 18em;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+footer a img {
+    width: 80px; height: 80px;
+}
+.mdl-grid.center-items {
+  justify-content: center;
+}

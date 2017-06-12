@@ -1,0 +1,16 @@
+_model: partopreni
+---
+title: Aliĝi
+---
+mi_alighas: Mi aliĝas!
+---
+post_korpo:
+
+<h4>Jam <b id="nb">multaj</b> aliĝintoj!</h4>
+<ul id="homoj" class="mdl-list"></ul>
+---
+body: 
+---
+titolo_koloro: #FF5252
+---
+kotizkalkulilo: Kotizkalkulilo

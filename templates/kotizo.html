@@ -1,0 +1,61 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.titolo }}{% endblock %}
+{% block body %}
+  <h2 style="color: {{ this.titolo_koloro }}">{{ this.title }}</h2>
+
+<div class="mdl-grid">
+  <a target="_blank" class="mdl-cell--10-offset  mdl-cell--4-col-phone  mdl-cell--6-offset-tablet mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
+     href="{{ bag('agordo', 'alighilo') }}">
+    <span>{{ site.get('/', alt=alt).mi_alighas }} <i class="material-icons">done</i></span>
+  </a>
+</div>
+
+  <figure><a href="{{ '/kotizo/kotizkalkulilo'|url(alt=alt) }}"><img src="{{ '/static/img/calculator.svg'|url }}" alt="La kotizkalkulilo de IJS"></a></figure>
+
+    <div class="mdl-grid center-items">
+      <a style="background-color:#607D8B" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
+        href="{{ '/kotizo/kotizkalkulilo'|url(alt=alt) }}">
+        <span>{{ this.kotizkalkulilo }} &nbsp; <i class="material-icons">pie_chart</i></span>
+      </a>
+    </div>
+
+  {{ this.antau_korpo }}
+
+  <div class="mdl-cell mdl-cell--2-offset-desktop mdl-cell--8-col mdl-cell--1-offset-tablet mdl-cell--6-col-tablet">
+    {{ this.body }}
+  </div>
+
+
+  <div class="mdl-cell mdl-cell--2-offset-desktop mdl-cell--8-col mdl-cell--1-offset-tablet mdl-cell--6-col-tablet"
+       style="color: {{ this.titolo_koloro }}">
+    {{ this.post_korpo }}
+  </div>
+
+
+<script type="text/javascript">
+    window.onload = function() { init() };
+
+    var public_url = "https://docs.google.com/spreadsheets/d/1fzmX24cZpdvsqWBqQpVMzeogGkqDHURbGzahgxVp7cM/pubhtml?gid=721185647&single=true";
+
+    function init() {
+      if (! document.getElementById('nb')) return;
+      Tabletop.init({
+        key: public_url,
+        simpleSheet: true,
+        callback: function(data, tabletop) {
+          document.getElementById('nb').innerHTML = data.length;
+          data.forEach(function(homo) {
+              document.getElementById('homoj').innerHTML +=
+                `<li class="mdl-list__item mdl-list__item--two-line">
+                   <span class="mdl-list__item-primary-content">
+                     <i class="material-icons mdl-list__item-icon">person</i>
+                     <span>${homo["Nomo"]}</span>
+                     <span class="mdl-list__item-sub-title">el ${homo["Lando"]}</span>
+                   </span>
+                 </li>`;
+          });
+        }
+      });
+    }
+</script>
+{% endblock %}

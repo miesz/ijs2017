@@ -1,0 +1,151 @@
+_model: kotizo
+---
+title: Kotizo
+---
+body:
+
+1- **C-landoj**: Landoj ekster europo.   **A-landoj**: Aŭstrio, Belgio, Britio,  Danio,  Finnlando, Francio, Germanio, Hispanio, Irlando, Islando, Italio, Luksemburgo, Nederlando, Norvegio, Svedio, Svislando → ĉiu alia estas B-lando
+
+2- La aĝo estas kalkulita laŭ plenitaj jaroj la unuan tagon de la aranĝo (7a de aŭgusto 2017)
+
+----
+
+Ordinaraj membroj de HEJ (sub 30) ricevas 20 eŭrajn rabaton (partatempaj partoprenantoj po 4 eŭrojn tage, sed maksimume 20 eŭrojn)
+
+La kosto de la ekskursoj estas aldona, pagenda surloke (maksimume ĉ. 15 eŭroj, rigardu la opciojn en la menuero Ekskursoj).
+
+La minimuma antaŭpaga sumo estas 35 eŭroj.
+
+Post la 30-a de junio jam ne antaŭpagu, vi povos pagi surloke en eŭroj aŭ en forintoj.
+
+Se vi pagas en forintoj, la partoprenkotizo estas kalkulita per la kurzo 300 HUF/EUR. Se 1 EUR valoros malpli ol 300 forintojn, ni kalkulos laŭ la kurzo de Hungara Nacia Banko validanta la unuan tagon de la aranĝo (7a de aŭgusto, 2017)
+
+Averto: Ĉi tie estas pagmanieroj nur por nehungaroj! Por hungaroj vizitu la hungaran version de tiu ĉi paĝo (la lingvoŝanĝilon trovu maldekstre supre).
+
+Vi povas ĝiri vian antaŭpagon al la konto IJSH-R ĉe UEA.
+
+Estas diversaj manieroj por pagi al nia UEA konto.
+
+Plej simpla estas, se vi ĝiras monon al unu de la bankkontoj de UEA,
+
+ekzemple en Nederlando ĉe ING Bank: IBAN: `NL72 INGB 0000 3789 64`, BIC/SWIFT: `INGBNL2A`.
+
+En la komento bonvolu skribi: 'IJSH-R, IJS 2017' kaj vian nomon.
+
+UEA havas bankkonton ankaŭ en Belgio, Germanio, Svedio kaj Svislando, pri la kontonumeroj vidu: http://uea.org/alighoj/pag_manieroj.html
+
+Se vi havas kreditkarton vi povas pagi per tio ĉe: https://db.uea.org/alighoj/spagilo.php
+
+En la rubriko 'Pago-celo' elektu 'Alia celo', kaj en la 'Akompanaj notoj, klarigoj' skribu 'IJSH-R, IJS 2017'.
+
+Se vi havas Paypal konton, vi povas pagi per tio al 'financoj@co.uea.org', en la komento skribu 'IJSH-R, IJS 2017' kaj vian nomon.
+
+Se vi pagas pere de kreditkarto aŭ Paypal, bonvolu aldoni 5% pro la administraj kostoj.
+
+Vi trovas pliajn informojn ĉi tie: http://uea.org/alighoj/pag_manieroj.html aŭ demandu vian lokan asocion pri la detaloj.
+
+
+
+
+
+Bonvolu ne antaŭpagi post la 30a de junio, 2017, ĉar la administrado de pagoj tra UEA povas daŭri longe.
+
+
+
+Aŭ vi povas ĝiri hungarajn forintojn (HUF) pere de Transferwise al nia hungara bankkonto: 11991102-02171825-00000000
+
+
+<div class="mdl-grid">
+  <table class="mdl-cell mdl-cell--6-col mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+    <thead>
+      <tr>
+        <th class="mdl-data-table__cell--non-numeric">Manĝkotizoj</th> <th>po tago</th> <th>por la tuta semajno</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="mdl-data-table__cell--non-numeric">Matenmanĝo</td>    <td>2,5</td> <td>15</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">Tagmanĝo</td>      <td>4</td>   <td>20</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">Vespermanĝo</td>   <td>3</td>   <td>18</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">Manĝaĵoj sume</td> <td>9,5</td> <td>53</td></tr>
+    </tbody>
+  </table>
+  <table class="mdl-cell mdl-cell--6-col mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+    <thead>
+      <tr>
+        <th class="mdl-data-table__cell--non-numeric">Loĝkotizoj (/persono/nokto)</th> <th>po tago</th> <th>por la tuta semajno</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="mdl-data-table__cell--non-numeric">En dulita ĉambro</td>    <td>15</td> <td>90</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">En 3-4 lita ĉambro</td>      <td>12</td>   <td>72</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">en 6-10 lita ĉambro</td>   <td>10</td>   <td>60</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">En propra tendo</td> <td>7</td> <td>42</td></tr>
+    </tbody>
+  </table>
+</div>
+
+Invitletero (ne oficiala) **5 €**
+
+Semajna eniro de la plaĝo: **9 €**
+---
+fono_koloro: #AED4BF
+---
+titolo_koloro: #9F8668
+---
+antau_korpo:
+
+<div class="mdl-grid">
+  <div class="mdl-cell mdl-cell--12-col">
+  <h5>Programkotizo</h5>
+
+<table style="width: 100%" class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+  <thead>
+    <tr>
+        <th>Landoj¹</th>
+        <th>B</th> <th>B</th> <th>B</th>
+        <th>A</th> <th>A</th> <th>A</th>
+        <th>C</th> <th>C</th> <th>C</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Aĝo²</td>
+        <td>0-18</td> <td>19-29</td> <td>30+</td>
+        <td>0-18</td> <td>19-29</td> <td>30+</td>
+        <td>0-18</td> <td>19-29</td> <td>30+</td>
+    </tr>
+    <tr>
+        <td>Antaŭpago ĝis 16a de junio 2017</td>
+        <td>20</td> <td>30</td> <td>50</td>
+        <td>30</td> <td>50</td> <td>80</td>
+        <td>0</td>  <td>0</td>  <td>80</td>
+    </tr>
+    <tr>
+        <td>Antaŭpago ĝis 30a de junio 2017</td>
+        <td>40</td> <td>50</td> <td>70</td>
+        <td>50</td> <td>70</td> <td>100</td>
+        <td>0</td> <td>0</td> <td>100</td>
+    </tr>
+    <tr>
+        <td>Sen antaŭpago</td>
+        <td>60</td> <td>70</td> <td>90</td>
+        <td>70</td> <td>90</td> <td>120</td>
+        <td>20</td> <td>20</td> <td>120</td>
+    </tr>
+    <tr>
+        <td>partatempaj partoprenantoj (por unu tago)</td>
+        <td colspan="6">5-ono de la supraj kotizoj. (tiuj, kiuj partoprenas minimume 5 tagojn, pagas la tutan programkotizon.)</td>
+        <td></td> <td></td> <td></td>
+    </tr>
+  </tbody>
+</table>
+</div></div>
+---
+post_korpo:
+
+
+<h4>Jam <b id="nb">multaj</b> aliĝintoj!</h4>
+<ul id="homoj" class="mdl-list"></ul>
+
+---
+kotizkalkulilo: Kotizkalkulilo

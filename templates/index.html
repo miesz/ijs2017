@@ -1,0 +1,104 @@
+{% extends "layout.html" %}
+{% block title %} – Internacia Junulara Semajno en Hungario{% endblock %}
+{% block body %}
+  <section id="bonvenigo">
+    <div class="mdl-grid">
+      <a target="_blank" class="mdl-button mdl-cell--10-offset mdl-cell--4-col-phone  mdl-cell--6-offset-tablet mdl-color--yellow-800 mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
+        href="{{ bag('agordo', 'alighilo') }}">
+        <span>{{ this.mi_alighas }} <i class="material-icons">done</i></span>
+      </a>
+    </div>
+
+    <h2>{{ this.titolo }}</h2>
+    <h4 class="dato">
+      {% if alt == 'eo' %}
+        {% set formato = "d'-a de' MMMM" %}
+      {% else %}
+        {% set formato = "MMMM d." %}
+      {% endif %}
+      <time class="mdl-cell--12-col-phone">{{ this.ekodato|dateformat(formato) }}</time>
+      <span class="sep">&nbsp; &bull; &bull; &bull; &nbsp;</span>
+      <time class="mdl-cell--12-col-phone">{{ this.finodato|dateformat(formato) }}</time>
+    </h4>
+    <h3>{{ this.urbo }}</h3>
+
+    <figure><img src="{{ '/static/img/suno.svg'|url }}" alt="La suno de IJS"></figure>
+
+    <div class="mdl-grid">
+      <div class="mdl-cell mdl-cell--2-offset-desktop mdl-cell--8-col mdl-cell--1-offset-tablet mdl-cell--6-col-tablet">
+        {{ this.bonvenigo }}
+      </div>
+    </div>
+    <figure><img src="{{ '/static/img/lavurso.svg'|url }}" alt="La lavurso de IJS"></figure>
+  </section>
+
+  <section id="lago" class="parallax" style="background-image: url({{ '/static/img/balatono.jpg'|url }})">
+  </section>
+
+  <section id="alighilo">
+    <figure><a href="{{ bag('agordo', 'alighilo') }}"><img src="{{ '/static/img/contract.svg'|url }}" alt="La aliĝilo de IJS"></a></figure>
+
+    <div class="mdl-grid center-items">
+      <a target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
+        href="{{ bag('agordo', 'alighilo') }}">
+        <span>{{ this.mi_alighas }} <i class="material-icons">done</i></span>
+      </a>
+    </div>
+
+    <div class="mdl-grid center-items">
+      <h6>
+        {% set kotizo_titolo = site.get('kotizo', alt=alt).title %}
+        <a href="{{ 'kotizo'|url(alt=alt) }}">{{ kotizo_titolo }}</a>
+      </h6>
+    </div>
+  </section>
+
+  <section id="kastelo" class="parallax" style="background-image: url({{ '/static/img/kastelo.jpg'|url }})">
+  </section>
+
+  {% if this.montri_ejon %}
+    <section id="ejo" style="background-color: {{ this.ejo_koloro }}">
+      <h3 style="color: {{ this.ejo_titolo_koloro }}">{{ this.ejo_titolo }}</h3>
+      <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--2-offset-desktop mdl-cell--8-col mdl-cell--1-offset-tablet mdl-cell--6-col-tablet">
+          {{ this.ejo_enhavo }}
+
+          <figure><img src="{{ '/static/img/mapo.svg'|url }}" alt="La mapo de IJS"></figure>
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+  <section id="bordo" class="parallax" style="background-image: url({{ '/static/img/lago-bordo.jpg'|url }})">
+  </section>
+
+  {% if this.montri_programon %}
+    <section id="programo" style="background-color: {{ this.programo_koloro }}">
+      <h3 style="color: {{ this.programo_titolo_koloro }}">{{ this.programo_titolo }}</h3>
+      <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--2-offset-desktop mdl-cell--8-col mdl-cell--1-offset-tablet mdl-cell--6-col-tablet">
+          {{ this.programo_enhavo }}
+          <figure><img src="{{ '/static/img/kalendaro.svg'|url }}" alt="La kalendaro de IJS"></figure>
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+  {% if this.montri_teamon %}
+    <section id="teamo" style="background-color: {{ this.teamo_koloro }}">
+      <h3 style="color: {{ this.teamo_titolo_koloro }}">{{ this.teamo_titolo }}</h3>
+      <div class="center">{{ this.teamo_enhavo }}</div>
+      <div class="mdl-grid">
+        {% for image in this.attachments.images %}
+          <figure class="mdl-cell mdl-cell--4-col mdl-cell--12-col-phone">
+            <img src="{{ image|url }}">
+            <figcaption>
+              <br><strong>{{ image.nomo }}</strong><br>
+              {{ image.rolo }}
+            </figcaption>
+          </figure>
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
+{% endblock %}

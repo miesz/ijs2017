@@ -1,0 +1,125 @@
+antau_korpo:
+
+<div class="mdl-grid">
+  <div class="mdl-cell mdl-cell--12-col">
+  <h5>Programköltség</h5>
+
+<table style="width: 100%" class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+  <thead>
+    <tr>
+        <th>orszagok¹</th>
+        <th>B</th> <th>B</th> <th>B</th>
+        <th>A</th> <th>A</th> <th>A</th>
+        <th>C</th> <th>C</th> <th>C</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>életkor²</td>
+        <td>0-18</td> <td>19-29</td> <td>30+</td>
+        <td>0-18</td> <td>19-29</td> <td>30+</td>
+        <td>0-18</td> <td>19-29</td> <td>30+</td>
+    </tr>
+    <tr>
+        <td>előlegfizetés 2017. junius 16-ig</td>
+        <td>20</td> <td>30</td> <td>50</td>
+        <td>30</td> <td>50</td> <td>80</td>
+        <td>0</td>  <td>0</td>  <td>80</td>
+    </tr>
+    <tr>
+        <td>előlegfizetés 2017. június 30-ig</td>
+        <td>40</td> <td>50</td> <td>70</td>
+        <td>50</td> <td>70</td> <td>100</td>
+        <td>0</td> <td>0</td> <td>100</td>
+    </tr>
+    <tr>
+        <td>előleg nélkül</td>
+        <td>60</td> <td>70</td> <td>90</td>
+        <td>70</td> <td>90</td> <td>120</td>
+        <td>20</td> <td>20</td> <td>120</td>
+    </tr>
+    <tr>
+        <td>Részidős résztvevőknek (egy napra)</td>
+        <td colspan="6">A fenti összeg 1/5-e (akik legalább 5 napig részt vesznek, a teljes programköltséget fizetik)</td>
+        <td>-</td> <td>-</td> <td>-</td>
+    </tr>
+  </tbody>
+</table></div></div>
+<br><br>
+---
+body:
+
+1- **C országok**: Európán kívüli országok. **A-országok**: Ausztria, Belgium, Nagy-Britannia,  Dánia,  Finnország, Franciaország, Németország, Spanyolország, Írország, Izland, Olaszország, Luxemburg, Hollandia, Norvégia, Svédország, Svájc → minden más ország (így Magyarország is) **B-ország**
+
+2- Az életkor a rendezvény első napján (2017. augusztus 7.) betöltött évek száma.
+
+----
+
+A MIESZ (30 év alatti) rendes tagjai 20 eurós kedvezményt kapnak (részidősök naponta 4 eurót, de maximum 20 eurót).
+
+A kirándulások költsége a programköltségen felüli, a helyszínen fizetendő, választástól függően. (A lehetőségeket ld. a Kirándulások menüpontban)
+
+Előleget június 30-a után már már ne fizess, a részvételi díjadat a helyszínen, készpénzben rendezheted euróban vagy forintban, utóbbi esetben 300 Ft/EUR árfolyamon. Amennyiben ennél alacsonyabb lesz 1 EUR értéke, akkor a rendezvény első napján (2017.08.07) érvényes MNB árfolyamon.
+
+Az előleg minimum 35 EUR (10 500 Ft).
+
+Az előleget (de akár a teljes programköltséget is) a MIESZ bankszámlájára vagy UEA-számlájára utalhatod, illetve lehetőséged van személyesen befizetni valamelyik rendezvényünkön.
+
+UEA-számla: "IJSH-R" (az UEA-utalás további részleteit itt találod http://uea.org/alighoj/pag_manieroj.html)
+
+A megjegyzések rovatban mindenképp tüntesd fel a neved és hogy „IJSH-R, IJS 2017”.
+
+– banki átutalás / bankba befizetés esetén:
+
+Bankszámlaszám: (Erste Bank) 11991102-02171825-00000000 (csak forint befizetéshez)
+
+Közlemény rovatban tüntesd fel: “IJS 2017 előleg” vagy “IJS 2017 részvételi díj” és a neved
+
+– személyes befizetés:
+
+A JER-en és egyéb programjainkon van rá lehetőség (lásd a www.eszperanto-ifjusag.hu honlapon, Facebookon és Twitteren megjelenő híreinket!)
+
+**Minden költség Euróban**
+
+<div class="mdl-grid">
+  <table class="mdl-cell mdl-cell--6-col mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+    <thead>
+      <tr>
+        <th class="mdl-data-table__cell--non-numeric">Étkezések árai</th> <th>egy napra</th> <th>a teljes hétre</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="mdl-data-table__cell--non-numeric">Reggeli</td>    <td>2,5</td> <td>15</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">Ebéd</td>      <td>4</td>   <td>20</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">Vacsora</td>   <td>3</td>   <td>18</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">minden étkezés</td> <td>9,5</td> <td>53</td></tr>
+    </tbody>
+  </table>
+  <table class="mdl-cell mdl-cell--6-col mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+    <thead>
+      <tr>
+        <th class="mdl-data-table__cell--non-numeric">Szállásköltségek (/fő/éj)</th> <th>egy napra</th> <th>a teljes hétre</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="mdl-data-table__cell--non-numeric">2 ágyas szoba</td>    <td>15</td> <td>90</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">3-4 ágyas szoba</td>      <td>12</td>   <td>72</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">6-10 ágyas szoba</td>   <td>10</td>   <td>60</td></tr>
+      <tr><td class="mdl-data-table__cell--non-numeric">Saját sátor</td> <td>7</td> <td>42</td></tr>
+    </tbody>
+  </table>
+</div>
+
+Strandbelépő egy hétre: 9 euró **9 €**
+
+
+---
+fono_koloro: #AED4BF
+---
+title: Költségek
+---
+titolo_koloro: #9F8668
+
+
+---
+kotizkalkulilo: Mennyibe kerül nekem?

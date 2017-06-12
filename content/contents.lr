@@ -1,0 +1,57 @@
+_model: index
+---
+titolo: Bonvenon al IJS 2017!
+---
+bonvenigo:
+
+La organiza teamo salutas vin en la retejo de IJS 2017
+
+Ni elkore invitas vin partopreni la eventon - ekskursu kaj ripozu, drinku en vinkelo, ludu piedpilkon, dancu kaj kantu dum koncerto, noktumu longe kaj naĝu en la lago Balatono kun ni!
+
+La IJS-ejo ĉi-jare troviĝos en eksterordinare bela ĉirkaŭaĵo. La vilaĝo nomiĝas Gyenesdiás kaj ĝi situas ĉe la nordokcidenta angulo de LA hungara lago Balatono. Ĝi proksimas al la urbo **Keszthely** _[kesthej]_: la “**ĉefurbo de Balatono**”. La vilaĝo estas ĉe la suda flanko de montaro, rekte ĉe la limo de regiona naturparko. Tio igas ĝin taŭga loko kaj por tiuj, kiuj ripozi, kaj por tiuj, kiuj sportumi ŝatus dum la aranĝo.
+---
+ejo_enhavo: La IJS-ejo troviĝas en la vilaĝo Gyenesdiás, ĝi estas 150 metrojn for de la stacidomo kaj nur 300 m-jn for de la plaĝo. Ĝi estas junulara gastejo kun 2, 3, 4, 6, 10 litaj ĉambroj kaj kun komunaj duŝejoj. En la konstruaĵo troviĝas pluraj komunaj ejoj, kie vi povos babili kun amikoj, ludi kaj amuziĝi. En la teretaĝo estas ankaŭ granda komuna ejo, kie ni havos mojosajn koncertojn kaj diskotekon. La granda korto certe ĝojigos la sportŝatantojn, tie ja eblos piedpilkludi, tablotenisludi aŭ kion ajn vi deziras. Se vi volos ripozi, vi povos havi iom da trankvilo en la teraso en la unua etaĝo.
+---
+ejo_koloro: #AED4BF
+---
+ejo_titolo: Ejo
+---
+ejo_titolo_koloro: #E46964
+---
+ekodato: 2017-08-07
+---
+finodato: 2017-08-13
+---
+programo_enhavo:
+
+- Koncertoj
+- Kokteloj
+- Diskoteko
+- Ludoj
+- Aktualaj diskutrondoj
+- Sportumado
+- Ekskursoj
+- Vingustumado
+- LAGO!!
+---
+programo_koloro: #E9BFA6
+---
+programo_titolo: Programo
+---
+programo_titolo_koloro: #9F8668
+---
+urbo: Gyenesdiás, Balatono, Hungario
+---
+montri_programon: yes
+---
+teamo_enhavo: La mojosaj organizantoj kiuj zorgas pri viaj bonaj travivaĵoj
+---
+teamo_koloro: #E46964
+---
+teamo_titolo: Teamo
+---
+teamo_titolo_koloro: #AED4BF
+---
+montri_ejon: yes
+---
+mi_alighas: Mi aliĝas!

@@ -1,0 +1,18 @@
+[project]
+name = IJS 2017
+
+[alternatives.eo]
+name = Esperanto
+primary = yes
+locale = eo
+
+[alternatives.hu]
+name = Magyar
+url_prefix = /hu/
+locale = hu
+
+[servers.IJShu]
+name = ijs.hu
+enable = yes
+default = yes
+target = ftp://lektor%40ijs.hu:FobsHarborLustyClinic44@ijs.hu/public_html
