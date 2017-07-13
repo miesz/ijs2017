@@ -1,5 +1,11 @@
 function init() {
 
+    $('.unslider').unslider({
+        autoplay: true,
+        infinite: true,
+        arrows: true
+    });
+
   function createList(data) {
     var ul = document.getElementById("alighintoj");
     data.forEach(function(homo){

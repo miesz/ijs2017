@@ -7,6 +7,8 @@
   <link rel="stylesheet" href="{{ '/static/material.min.css'|url }}">
   <link rel="stylesheet" href="{{ '/static/mdl-selectfield.min.css'|url }}">
   <link rel="stylesheet" type="text/css" href="{{ '/static/dialog-polyfill.css'|url }}" />
+  <link rel="stylesheet" href="{{ '/static/unslider.css'|url }}">
+  <link rel="stylesheet" href="{{ '/static/unslider-dots.css'|url }}">
   <link rel="stylesheet" href="{{ '/static/style.css'|url }}">
   <link rel="icon" type="image/png" href="{{ '/static/img/ijs2017_favicon.png' }}"  sizes="128x128">
   <title>IJS 2017{% block title %}{% endblock %}</title>
@@ -16,21 +18,7 @@
 
   <script src="{{ '/static/material.min.js'|url }}"></script>
   <script src="{{ '/static/mdl-selectfield.min.js'|url }}" type="text/javascript"></script>
-  <script src="{{ '/static/lightbox.js'|url }}"></script>
-  <script src="{{ '/static/tabletop.min.js'|url }}"></script>
-  <script src="{{ '/static/skriptoj.js'|url }}"></script>
 
-
-  <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
-  <script src="https://cdn.rawgit.com/HubSpot/tether/v1.3.4/dist/js/tether.min.js"></script>
-  <script src="https://cdn.rawgit.com/FezVrasta/bootstrap-material-design/dist/dist/bootstrap-material-design.iife.min.js"></script>
-  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-  <script src="https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js"></script>
-  <script>
-    $('body').bootstrapMaterialDesign();
-  </script>
-    <script src="{{ '/static/kalkulilo.js'|url }}" type="text/javascript"></script>
-    <script src="{{ '/static/dialog-polyfill.js'|url }}" type="text/javascript"></script>
 </head>
 
 <body>
@@ -105,7 +93,10 @@
     </footer>
   </div>
 
+  <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+  <script src="{{ '/static/skriptoj.js'|url }}"></script>
   <script src="{{ '/static/dialog-polyfill.js'|url }}" type="text/javascript"></script>
+  <script src="{{ '/static/unslider-min.js'|url }}"></script>
 </div>
 
   {% block dialog %}{% endblock %}
