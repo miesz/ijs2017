@@ -34,12 +34,11 @@
   </div>
 
 
-<script type="text/javascript">
-    window.onload = function() { init() };
+  <script type="text/javascript">
 
     var public_url = "https://docs.google.com/spreadsheets/d/1fzmX24cZpdvsqWBqQpVMzeogGkqDHURbGzahgxVp7cM/pubhtml?gid=721185647&single=true";
 
-    function init() {
+    function loadParticipants() {
       if (! document.getElementById('nb')) return;
       Tabletop.init({
         key: public_url,
@@ -59,5 +58,7 @@
         }
       });
     }
-</script>
+
+    window.onload = function() { loadParticipants() };
+  </script>
 {% endblock %}

@@ -21,32 +21,4 @@
        style="color: {{ this.titolo_koloro }}">
     {{ this.post_korpo }}
   </div>
-
-
-<script type="text/javascript">
-    window.onload = function() { init() };
-
-    var public_url = "https://docs.google.com/spreadsheets/d/1fzmX24cZpdvsqWBqQpVMzeogGkqDHURbGzahgxVp7cM/pubhtml?gid=721185647&single=true";
-
-    function init() {
-      if (! document.getElementById('nb')) return;
-      Tabletop.init({
-        key: public_url,
-        simpleSheet: true,
-        callback: function(data, tabletop) {
-          document.getElementById('nb').innerHTML = data.length;
-          data.forEach(function(homo) {
-              document.getElementById('homoj').innerHTML +=
-                `<li class="mdl-list__item mdl-list__item--two-line">
-                   <span class="mdl-list__item-primary-content">
-                     <i class="material-icons mdl-list__item-icon">person</i>
-                     <span>${homo["Nomo"]}</span>
-                     <span class="mdl-list__item-sub-title">el ${homo["Lando"]}</span>
-                   </span>
-                 </li>`;
-          });
-        }
-      });
-    }
-</script>
 {% endblock %}
