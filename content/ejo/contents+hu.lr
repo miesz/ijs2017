@@ -4,15 +4,15 @@ body:
 
 <h4>A tábor címe</h4>
 <p>Vadóctanya Ifjúsági Tábor - Gyenesdiás</p>
-<p> 8315 Gyenesdiás, Tulipán utca 3.</p>
+<p>8315 Gyenesdiás, Tulipán utca 3.</p>
 
 
 <h4>Elérhetőség vonattal</h4> 
 <p>
-Gyenesdiás egyszerűen elérhető vonattal Budapestről, Keszthelyen keresztül. A Vonatok jellemzően a Déli pályaudvarról indulnak, de Kelenföldön is megállnak, így itt is fel lehet szállni. A Gyenesdiási megállótól a helyszín már egész közel van:
+Gyenesdiás egyszerűen elérhető vonattal Budapestről, Keszthelyen keresztül. A vonatok jellemzően a Déli pályaudvarról indulnak, de Kelenföldön is megállnak, így itt is fel lehet szállni. A Gyenesdiási megállótól a helyszín már egész közel van:
 </p>
 
-<h4>Mapo</h4>
+<h4>Térkép</h4>
 <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/directions?origin=Vas%C3%BAt%C3%A1llom%C3%A1s%2C%20Gyenesdi%C3%A1s%2C%20Hungary&destination=place_id:ChIJ5e1mWaECaUcRC_0Vu6K6a3k&key=AIzaSyDZDgprPeI-jtyNqP8G33OM9NNnXuHUd-c" allowfullscreen></iframe>
 ---
 title: Helyszín
