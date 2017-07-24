@@ -1,0 +1,27 @@
+_model: page
+---
+title: Programo
+---
+antau_korpo: 
+---
+body:
+
+<h3>Kontribuu al la programo!</h3>
+<p>
+Ni planis amason da interesaj programoj por la semajno, sed ni ankaŭ invitas vin por kontribui!
+</p>
+<p>
+Klaku la butonon sube, kaj iĝu preleganto, instruisto de lingvo, muzikisto dum IJS!
+</p>
+
+<a target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" href="https://docs.google.com/forms/d/e/1FAIpQLSd7ZMxKwozRZDL6qESQT6PZmbN3bdhSFkw85n_8ZyhQ8_OYQA/viewform?fbzx=-2517111105775169500" data-upgraded=",MaterialButton,MaterialRipple">
+    <span>Mi proponas programon! <i class="material-icons">done</i></span>
+  <span class="mdl-button__ripple-container"><span class="mdl-ripple is-animating" style="width: 286.36px; height: 286.36px; transform: translate(-50%, -50%) translate(23px, 7px);"></span></span></a>
+
+
+<h3>Iĝu DĴ por 40 minutoj!</h3>
+<p>Montru viajn plej ŝatatajn kantojn kaj dancigu la partoprenantojn - iĝu dĵ por 40 minutoj! Klaku la butonon ĉi-sube por pli!</p>
+
+<a target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" href="https://docs.google.com/forms/d/e/1FAIpQLSdZ8jN_LdQdf_UYSDv00lm6niSTlhdcWo2TQ2TIqeFHgzl9zA/viewform" data-upgraded=",MaterialButton,MaterialRipple">
+    <span>Mi iĝos DĴ por 40 minutoj! <i class="material-icons">done</i></span>
+  <span class="mdl-button__ripple-container"><span class="mdl-ripple is-animating" style="width: 286.36px; height: 286.36px; transform: translate(-50%, -50%) translate(23px, 7px);"></span></span></a>

@@ -1,0 +1,25 @@
+antau_korpo: 
+---
+body:
+
+<h3>Járulj hozzá te is a programhoz!</h3>
+<p>
+Rengeteg érdekesebbnél érdekesebb programmal készülünk az IJS-re, de itt a lehetőség, hogy te is hozzátedd a magadét! Ajánj fel nyelvleckét, zenélést, játékot, előadást! Ne fogd vissza a fantáziád! 
+</p>
+<p>
+Kattints a lenti gombra, és mondd el nekünk is az ötleted!
+</p>
+
+<a target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" href="https://docs.google.com/forms/d/e/1FAIpQLSd7ZMxKwozRZDL6qESQT6PZmbN3bdhSFkw85n_8ZyhQ8_OYQA/viewform?fbzx=-2517111105775169500" data-upgraded=",MaterialButton,MaterialRipple">
+    <span>Felajánlok egy programot! <i class="material-icons">done</i></span>
+  <span class="mdl-button__ripple-container"><span class="mdl-ripple is-animating" style="width: 286.36px; height: 286.36px; transform: translate(-50%, -50%) translate(23px, 7px);"></span></span></a>
+
+
+<h3>Keverd te a zenét 40 percig!</h3>
+<p>Mutasd be a kedvenc számaid, és táncoltasd meg a többieket – légy te a DJ 40 percre! Kattints a lenti gombra a továbbiakhoz!</p>
+
+<a target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" href="https://docs.google.com/forms/d/e/1FAIpQLSdZ8jN_LdQdf_UYSDv00lm6niSTlhdcWo2TQ2TIqeFHgzl9zA/viewform" data-upgraded=",MaterialButton,MaterialRipple">
+    <span>DJ leszek 40 percre! <i class="material-icons">done</i></span>
+  <span class="mdl-button__ripple-container"><span class="mdl-ripple is-animating" style="width: 286.36px; height: 286.36px; transform: translate(-50%, -50%) translate(23px, 7px);"></span></span></a>
+---
+title: Programo
