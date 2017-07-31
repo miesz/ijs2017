@@ -1,0 +1,14 @@
+_model: page
+---
+title: Programtabulo
+---
+body:
+
+<p>Sube vi trovas la detalan programon de la tuta semajno!</p>
+<p>Tempoj kaj programeroj povas ŝanĝiĝi dum la aranĝo, sed ĝi daŭre donas al vi ĝeneralan ideon pri kio okazos dum la tagoj.</p>
+
+<a class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" href="https://docs.google.com/spreadsheets/d/1-RNGAHexF-qsAHTxHpxIJigwBH4SGtw9e1EHZdHrJxo/pub?gid=1329558045&single=true&output=pdf" target="_blank">Vidu en PDF</a>
+
+<iframe src="https://docs.google.com/spreadsheets/d/1-RNGAHexF-qsAHTxHpxIJigwBH4SGtw9e1EHZdHrJxo/pubhtml?gid=1329558045&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height=600px></iframe>
+---
+antau_korpo: 
