@@ -2,17 +2,56 @@ antau_korpo:
 ---
 body:
 
-<h4>A tábor címe</h4>
+<h3>A tábor címe</h3>
 <p>Vadóctanya Ifjúsági Tábor - Gyenesdiás</p>
 <p>8315 Gyenesdiás, Tulipán utca 3.</p>
 
-
-<h4>Elérhetőség vonattal</h4> 
+<h3>Elérhetőség vonattal</h3> 
 <p>
 Gyenesdiás egyszerűen elérhető vonattal Budapestről, Keszthelyen keresztül. A vonatok jellemzően a Déli pályaudvarról indulnak, de Kelenföldön is megállnak, így itt is fel lehet szállni. A Gyenesdiási megállótól a helyszín már egész közel van:
 </p>
 
-<h4>Térkép</h4>
 <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/directions?origin=Vas%C3%BAt%C3%A1llom%C3%A1s%2C%20Gyenesdi%C3%A1s%2C%20Hungary&destination=place_id:ChIJ5e1mWaECaUcRC_0Vu6K6a3k&key=AIzaSyDZDgprPeI-jtyNqP8G33OM9NNnXuHUd-c" allowfullscreen></iframe>
+
+<h3>Utazz velünk!</h3>
+Ha...
+<ul>
+<li>félsz, hogy elkeveredsz Gyenesdiásra menet, vagy</li>
+<li>nem vagy jóban a vasúttal, vagy</li>
+<li>a többi eszperantistával együtt szeretnél vonatozni...</li>
+</ul>
+ 
+<p>Van Neked egy ajánlatunk!</p>
+
+<h4>Budapest felől</h4>
+Budapest több vasútállomásáról, több időpontban is indulnak le csapatok Gyenesdiásra.
+
+Ha bármelyik csoporttal jössz, kérünk, hogy töltsd ki ezt a rövid kérdőívet, hogy a szervezők számíthassanak rád! :) https://docs.google.com/forms/d/e/1FAIpQLSfcsindOuArWlpq0TIC6kzDT5XJ6-D36k-zfIcMsuU6COtQVg/viewform
+
+
+<h5>Déli pályaudvar, 11:35</h5>
+<ul>
+<li>Lindwurm Edit</li>
+<li>Békési Ditta</li>
+<li>Találkozó 11:20-kor, a Déli Pályaudvar főbejáratánál.</li>
+</ul>
+
+<h5>Déli pályaudvar, 13:35</h5>
+<ul>
+<li>Keményfi Imre</li>
+<li>Találkozó 13:20-kor, a Déli Pályaudvar főbejáratánál.</li>
+</ul>
+
+<h5>Kelenföldi pályaudvar, 14:11</h5>
+<ul>
+<li>Garami Péter</li>
+<li>Találkozó 13:55-kor, a 6-os peronnál, az új aluljáróban.</li>
+</ul>
+
+<h4>Franciaország, Németország és Ausztria irányából</h4>
+
+Nemzetközi karaván érkezik Nyugat-Európa irányából, Alexandre Raymond (népszerű nevén Alekĉjo) vezetésével. Részleteket <a target="_blank" href="http://move.tejo.org/ijs17/">itt találsz</a>.
 ---
 title: Helyszín
+---
+_discoverable: yes
